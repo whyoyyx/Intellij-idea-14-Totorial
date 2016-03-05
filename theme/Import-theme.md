@@ -4,7 +4,7 @@ Intellij Colors: DSmart
 Dark color theme for Intellij inspired by DSmart Theme. Also works in other Jetbrains products including Webstorm, PyCharm, RubyMine, and PhPStorm.
 
 To install
-> ##### install the font:[Menlo ](Dsmart/font/installFont.md)
+> ##### install the font:[Menlo ](DSmart/font/installFont.md)
 > ##### Intellij -> creat new theme
 
   ![](DSmart/createNewTheme.png)
@@ -24,13 +24,31 @@ To request support for a language, please fork, create a code sample in the code
 
 ## Screenshots
 
+> *   JAVA
 ![](DSmart/Screenshots/java001.png)
+> *   JAVA
 ![](DSmart/Screenshots/java002.png)
+> *   JAVA
+
 ![](DSmart/Screenshots/java003.png)
+> *   HTML
+
 ![](DSmart/Screenshots/html001.png)
+> *   JavaSrcipt
+
 ![](DSmart/Screenshots/js001.png)
+> *   css
+
 ![](DSmart/Screenshots/css.png)
+
+> *   Properties
+
 ![](DSmart/Screenshots/properties001.png)
+
+> *   SQL
+
 ![](DSmart/Screenshots/sql.png)
+
+> *   XML
 ![](DSmart/Screenshots/xml001.png)
 
