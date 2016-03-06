@@ -8,7 +8,7 @@ To install
 > ##### Intellij -> creat new theme
 
   ![](DSmart/createNewTheme.png)
-> ##### copy `DSmart.icls` file to new theme file:C:\Users\{Administrator}\.IntelliJIdea14\config\colors
+> ##### copy [DSmart.icls](DSmart/DSmart.icls) file to new theme file:C:\Users\{Administrator}\.IntelliJIdea14\config\colors
 
   ![](DSmart/copyFile.png)
 > #####  Copy the content except the first line
